@@ -1,0 +1,14 @@
+body{
+    margin: 9%;
+    padding: 40px;
+    background-color: yellowgreen;
+}
+.fondo{
+    width: 400px;
+    height: 150px;
+    background-color: black;
+    margin: 0px;
+    padding: 9px;
+    font-family: 'Franklin Gothic Medium';
+    color: white;
+}
